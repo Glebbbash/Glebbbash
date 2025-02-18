@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C#, and HTML.
 - 🏫 Taking ICS3 course in school.
-- ⛷ Love alpine skiing
+- ⛷ Love mountain skiing

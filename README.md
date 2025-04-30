@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C#, and HTML.
+- 🌱 I’m currently learning C#, JS, and HTML.
 - 🏫 Taking ICS3 course in school.
 - ⛷ Love mountain skiing
